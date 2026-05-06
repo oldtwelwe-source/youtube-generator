@@ -1,0 +1,81 @@
+{
+  "channels": {
+    "finance": {
+      "style": "oil painting style, rich warm colors, textured brushstrokes, classical art aesthetic, golden light, detailed composition, museum quality artwork, masterful painting technique",
+      "topic": "финансы, инвестиции, экономика",
+      "overlay_style": {
+        "font_family": "Playfair Display, Georgia, serif",
+        "accent_color": "#FFD700",
+        "secondary_color": "#1A1A1A",
+        "animation_intensity": "subtle",
+        "notes": "Классический финансовый стиль: тёмный фон, золотой акцент, serif-типографика. Intensity subtle — плавные документальные анимации."
+      }
+    },
+    "erifan": {
+      "style": "Studio Ghibli animation style, Spirited Away aesthetic mixed with traditional Russian culture, magical realism, Russian people with Slavic features, traditional Russian village, wooden izba, enchanted Russian garden, vibrant colors, nostalgic and whimsical atmosphere, 4k resolution, highly detailed 2D anime art",
+      "topic": "садоводство, огородство, растения, дача, урожай, россия",
+      "overlay_style": {
+        "font_family": "Caveat, Marck Script, cursive",
+        "accent_color": "#5B9B5B",
+        "secondary_color": "#FFF8E7",
+        "animation_intensity": "subtle",
+        "notes": "Тёплая садовая эстетика Ghibli: рукописный шрифт, сочный зелёный акцент на кремовой подложке. Subtle — плавные документальные анимации."
+      }
+    },
+    "machine": {
+      "style": "optimistic 1950s commercial illustration, combining golden age sci-fi and utopian retro-futurism, vibrant, warm colors, clean stylized lines, and screen-printed poster aesthetic",
+      "topic": "машины, цены, диллеры, концерны, ретро стиль",
+      "overlay_style": {
+        "font_family": "Bebas Neue, Oswald, Impact, sans-serif",
+        "accent_color": "#E85D3A",
+        "secondary_color": "#F4E4BC",
+        "animation_intensity": "subtle",
+        "notes": "Ретро-футуризм 50-х: плакатный sans-serif, тёплый терракотовый акцент на кремовой подложке. Subtle — плавные документальные анимации."
+      }
+    },
+    "history": {
+      "style": "cinematic realism, mystical, dramatic lighting, moody atmosphere, aged textures",
+      "topic": "история, тайны, события прошлого",
+      "overlay_style": {
+        "font_family": "Cinzel, Trajan Pro, serif",
+        "accent_color": "#C9A961",
+        "secondary_color": "#1C1410",
+        "animation_intensity": "subtle",
+        "notes": "Кинематографичный исторический стиль: античное золото на тёмно-коричневом, шрифт Cinzel с римскими пропорциями. Subtle — медленные, торжественные анимации."
+      }
+    },
+    "jiang": {
+      "style": "hand-drawn chalkboard, classroom blackboard sketches, geopolitical diagrams, messy professor handwriting, rough arrows and circled keywords, chalk-and-marker texture",
+      "topic": "геополитика, теория игр, империи и циклы истории, петро-доллар, стратегический анализ",
+      "overlay_style": {
+        "font_family": "Kalam, Caveat, Patrick Hand, Permanent Marker, handwritten",
+        "accent_color": "#E85A4F",
+        "secondary_color": "#1A2E2A",
+        "animation_intensity": "medium",
+        "notes": "Академическая доска геополитика-профессора: тёмно-зелёный/графитовый фон (#1A2E2A) с текстурой мела и потёртостей, надписи off-white мелом (#F4F1DE) и маркером. Основной шрифт — рукописный чуть неряшливый (Kalam/Caveat), заголовки как будто выведены куском мела с нажимом. Акцент — красно-оранжевый маркер (#E85A4F) для кружков, стрелок, подчёркиваний ключевых слов и чисел. Оформление: наброски карт стран с жирными границами, пунктирные стрелки между регионами, фигурные скобки с подписями, нарисованные от руки флаги и значки $/нефть/⚔, зачёркивания и дописки сверху как на настоящей лекции. Medium — элементы проявляются штрих за штрихом, будто их рисуют в реальном времени: сначала контур, потом подпись, потом красное выделение; стрелки «прочерчиваются» от точки А к точке Б, кружки замыкаются одной линией. Ощущение строгой, но живой университетской лекции — чуть запылённая доска, следы от старых записей, без глянца и градиентов."
+      }
+    },
+    "nazvanie_kanala_3": {
+      "style": "",
+      "topic": "",
+      "overlay_style": {
+        "font_family": "Inter, system-ui, sans-serif",
+        "accent_color": "#FFD700",
+        "secondary_color": "#1A1A1A",
+        "animation_intensity": "subtle",
+        "notes": "Дефолтный стиль — заполнить под канал"
+      }
+    },
+    "nazvanie_kanala_4": {
+      "style": "",
+      "topic": "",
+      "overlay_style": {
+        "font_family": "Inter, system-ui, sans-serif",
+        "accent_color": "#FFD700",
+        "secondary_color": "#1A1A1A",
+        "animation_intensity": "subtle",
+        "notes": "Дефолтный стиль — заполнить под канал"
+      }
+    }
+  }
+}

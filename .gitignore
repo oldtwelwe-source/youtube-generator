@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+
+# Node / Remotion
+node_modules/
+*.tsbuildinfo
+.cache/
+.remotion/
+npm-debug.log*
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.swp
+
+# Claude Code local state
+.claude/settings.local.json
+
+# Build / render artifacts
+overlays/test_renders/*.webm
+overlays/test_renders/*.mp4
+*.log
+*.tmp
+
+# Generated media (data lives in D:\MyChannelsIRL, defensive ignore)
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.mp3
+*.wav
+*.flac
+*.safetensors
+*.gguf
+*.ckpt
+*.pt
+*.bin

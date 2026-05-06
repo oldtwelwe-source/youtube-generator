@@ -1,0 +1,58 @@
+[
+  {
+    "id": "overlay_001",
+    "type": "TestCard",
+    "start_time": 1.0,
+    "duration_seconds": 3.0,
+    "params": {
+      "text": "Проверка",
+      "accent_color": "#FFD700",
+      "secondary_color": "#1A1A1A"
+    }
+  },
+  {
+    "id": "overlay_002",
+    "type": "NumberReveal",
+    "start_time": 5.0,
+    "duration_seconds": 2.5,
+    "params": {
+      "value": "1998",
+      "caption": "год",
+      "position": "top-right",
+      "accent_color": "#FFD700",
+      "secondary_color": "#1A1A1A",
+      "font_family": "Inter, system-ui, sans-serif",
+      "animation_intensity": "medium"
+    }
+  },
+  {
+    "id": "overlay_003",
+    "type": "NumberReveal",
+    "start_time": 10.0,
+    "duration_seconds": 2.0,
+    "params": {
+      "value": "500%",
+      "caption": "рост",
+      "position": "middle-center",
+      "accent_color": "#5B9B5B",
+      "secondary_color": "#FFF8E7",
+      "font_family": "Caveat, cursive",
+      "animation_intensity": "playful"
+    }
+  },
+  {
+    "id": "overlay_004",
+    "type": "NumberReveal",
+    "start_time": 14.0,
+    "duration_seconds": 3.0,
+    "params": {
+      "value": "$1,250,000",
+      "caption": "украдено",
+      "position": "bottom-left",
+      "accent_color": "#C9A961",
+      "secondary_color": "#1C1410",
+      "font_family": "Cinzel, serif",
+      "animation_intensity": "subtle"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "overlay_001",
+    "ok": true,
+    "path": "D:\\YouTube-Generator\\overlays\\test_renders\\overlay_001.webm",
+    "size_kb": 147
+  },
+  {
+    "id": "overlay_002",
+    "ok": true,
+    "path": "D:\\YouTube-Generator\\overlays\\test_renders\\overlay_002.webm",
+    "size_kb": 119
+  },
+  {
+    "id": "overlay_003",
+    "ok": true,
+    "path": "D:\\YouTube-Generator\\overlays\\test_renders\\overlay_003.webm",
+    "size_kb": 131
+  },
+  {
+    "id": "overlay_004",
+    "ok": true,
+    "path": "D:\\YouTube-Generator\\overlays\\test_renders\\overlay_004.webm",
+    "size_kb": 150
+  }
+]
